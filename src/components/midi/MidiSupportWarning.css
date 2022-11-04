@@ -1,0 +1,14 @@
+
+.midi-support-warning-top {
+    background-color: #ff8125;
+    padding: 10px;
+    font-size: 1.25rem;
+    margin-bottom: 10px;
+}
+
+.midi-support-warning-top a {
+    font-weight: bold;
+    text-decoration: none;
+    color: blue;
+}
+

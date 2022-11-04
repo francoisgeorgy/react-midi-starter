@@ -1,0 +1,29 @@
+{
+    "name": "react-midi-starter",
+    "private": true,
+    "version": "0.0.0",
+    "type": "module",
+    "author": "François Georgy <francois.georgy@gmail.com>",
+    "scripts": {
+        "dev": "vite",
+        "build": "tsc && vite build",
+        "preview": "vite preview"
+    },
+    "dependencies": {
+        "mobx": "^6.6.2",
+        "mobx-react-lite": "^3.4.0",
+        "react": "^18.2.0",
+        "react-dom": "^18.2.0",
+        "react-switch": "^7.0.0",
+        "storejs": "^2.0.1",
+        "vite-plugin-replace": "^0.1.1"
+    },
+    "devDependencies": {
+        "@types/react": "^18.0.22",
+        "@types/react-dom": "^18.0.7",
+        "@types/webmidi": "^2.0.6",
+        "@vitejs/plugin-react": "^2.2.0",
+        "typescript": "^4.6.4",
+        "vite": "^3.2.0"
+    }
+}
